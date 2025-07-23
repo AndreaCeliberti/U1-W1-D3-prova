@@ -16,13 +16,14 @@
     border-right: 0px;
     border-left: 0px;
     border-bottom: 0px;
+    margin: 0%;
 }
 h5{
     font-size: 0.8em;
     color: #004D4B;
 
 }
-.main{    
+main{    
     max-width: 600px;
     margin: auto;
 }
