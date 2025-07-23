@@ -17,13 +17,13 @@
     border-left: 0px;
     border-bottom: 0px;
 }
-.h5{
+h5{
     font-size: 0.8em;
-    color: #004d4b;
+    color: #004D4B;
 
 }
 .main{    
-    max-width: 900px;
+    max-width: 600px;
     margin: auto;
 }
 .title{
