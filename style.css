@@ -1,35 +1,75 @@
-.body{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
-.logo{
-          width: 200px;
-        
-        }
-.maintitle{
-    text-align: center
-
-
+.logo {
+  width: 200px;
 }
-.square{
-    background-color: #fdfbf1 ;
-    border-color: #f2c205 ;
-    border-right: 0px;
-    border-left: 0px;
-    border-bottom: 0px;
-    margin: 0%;
+.maintitle {
+  text-align: center;
 }
-h5{
-    font-size: 0.8em;
-    color: #004D4B;
-
+.square {
+  background-color: #fdfbf1;
+  border-color: #f2c205;
+  border-right: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+  margin: 0%;
 }
-main{    
-    max-width: 600px;
-    margin: auto;
+h5 {
+  font-size: 0.8em;
+  color: #004d4b;
 }
-.title{
-    text-align: center;
+main {
+  max-width: 600px;
+  margin: auto;
 }
-.img{
-    text-align: center;
+.title {
+  text-align: center;
+}
+.sidetitle {
+  font-size: 0.9em;
+}
+.img {
+  text-align: center;
+}
+.img img {
+  height: 400px;
+  width: 600px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+.featured {
+  margin-bottom: 0px;
+  padding-left: 16px;
+  color: #b5460f;
+}
+.cranberry {
+  margin-top: 0px;
+  padding-left: 1em;
+}
+.cranberry a {
+  color: #107777;
+}
+.featcran {
+  border-left: 2px solid #f2c205;
+}
+.ingredients p {
+  font-size: 2em;
+  border-bottom: 2px solid#C3F3F1;
+  padding-bottom: 0.5em;
+}
+div ul li {
+  line-height: 2em;
+}
+.method p {
+  font-size: 2em;
+  border-bottom: 2px solid#C3F3F1;
+  padding-bottom: 0.5em;
+}
+footer {
+  max-width: 600px;
+  margin: auto;
+}
+footer a {
+  color: #107777;
 }
